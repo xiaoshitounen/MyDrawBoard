@@ -1,0 +1,2 @@
+rootProject.name='05_14_MyDrawBoard'
+include ':app'
