@@ -1,6 +1,6 @@
 # MyDrawBoard
 
-详细内容博客地址:[Android项目9：画板](https://fanandjiu.com/Android%E9%A1%B9%E7%9B%AE9%EF%BC%9A%E7%94%BB%E6%9D%BF/#more)
+详细内容博客地址:[Android项目9：画板](http://www.fanandjiu.com/article/46d6d121.html)
 
 简介：
 
